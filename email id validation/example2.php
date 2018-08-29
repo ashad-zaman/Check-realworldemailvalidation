@@ -28,4 +28,7 @@ foreach($results as $email=>$result) {
     echo 'The email address '. $email.' is not valid';
   }
 }
+
+
+
 ?>
